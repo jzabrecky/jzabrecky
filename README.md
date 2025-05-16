@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I am Jordan!
+
+- 💧👩‍💻 I am an aquatic ecologist and data scientist interested in water quality, algal communities, and ecological forecasting
+- 🐺🎓 I am currently a PhD student in the NRES program at the University of Nevada, Reno
+- 🏞️🦠 My dissertation research focuses on understanding and predicting the timing of toxin-producing cyanobacteria
 
 <!--
 **jzabrecky/jzabrecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
