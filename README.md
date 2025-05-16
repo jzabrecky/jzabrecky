@@ -4,6 +4,11 @@
 - 🐺🎓 I am currently a PhD student in the NRES program at the University of Nevada, Reno
 - 🏞️🦠 My dissertation research focuses on understanding and predicting the timing of toxin-producing cyanobacteria
 
+![Image](https://github.com/jzabrecky/jzabrecky/blob/main/github_banner.png)
+
+<ins>(top)</ins>: *Lacunastrum*, *Gomphonema* stalk, *Microcoleus* and *Anabaena* filaments, conjugated *Spirogyra*, *Epithemia* along with other diatoms
+<br> <ins>(bottom)</ins>: the South Fork Eel River, *Microcoleus* mats in the Salmon River, the Russian River, emerald green *Anabaena* on senescing *Cladophora*, the Salmon River
+
 <!--
 **jzabrecky/jzabrecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
